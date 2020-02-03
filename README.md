@@ -8,3 +8,4 @@
 
 - create-react-app
 
+- JSX & Props
